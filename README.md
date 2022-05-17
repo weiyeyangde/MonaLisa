@@ -20,24 +20,35 @@ Options:
 ```
 .\MonaLisa.exe --input_image_file_path "E:\input.png" --output_directory_path "E:\" --pattern "ellipse"
 ```
-### Step By Step
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa1.png" style="width: 20%; height:auto;">
-    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa6.png" style="width: 20%; height:auto;">
-    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa11.png" style="width: 20%; height:auto;">
+### Step By Step (by generating triangles)
+- Input image
+    <p align="left">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa.png" title="Original Image" style="width: 30%; height:auto;">
+    </p>
+- Onput images
+  <div class="row">
+    <div class="column">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa1.png" style="width: 15%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa3.png" style="width: 15%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa5.png" style="width: 15%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa7.png" style="width: 15%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa9.png" style="width: 15%; height:auto;">
+    </div>
+    <div class="column">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa11.png" style="width: 15%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa13.png" style="width: 15%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa15.png" style="width: 15%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa17.png" style="width: 15%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa19.png" style="width: 15%; height:auto;">
+    </div>
+     <div class="column">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa20.png" style="width: 15%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa25.png" style="width: 15%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa30.png" style="width: 15%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa35.png" style="width: 15%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa41.png" style="width: 15%; height:auto;">
+    </div>
   </div>
-  <div class="column">
-    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa16.png" style="width: 20%; height:auto;">
-    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa21.png" style="width: 20%; height:auto;">
-    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa26.png" style="width: 20%; height:auto;">
-  </div>
-   <div class="column">
-    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa31.png" style="width: 20%; height:auto;">
-    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa36.png" style="width: 20%; height:auto;">
-    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa41.png" style="width: 20%; height:auto;">
-  </div>
-</div>
 
 ### Examples
 - Approximate the image of Monalisa
