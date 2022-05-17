@@ -23,7 +23,7 @@ Options:
 ### Step By Step (by generating triangles)
 - Input image
     <p align="left">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa.png" title="Original Image" style="width: 30%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa.png" title="Original Image" style="width: 20%; height:auto;">
     </p>
 - Onput images
   <div class="row">
