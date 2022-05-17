@@ -1,4 +1,4 @@
-## Project1 - Monalisa
+## Monalisa
 Approximate an image by continuously generating random colored patterns(ellipses, rectangles, triangles).
 
 ### Usage
