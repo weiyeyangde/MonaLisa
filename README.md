@@ -28,25 +28,25 @@ Options:
 - Onput images
   <div class="row">
     <div class="column">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa1.png" style="width: 15%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa3.png" style="width: 15%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa5.png" style="width: 15%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa7.png" style="width: 15%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa9.png" style="width: 15%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa1.png" style="width: 17%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa3.png" style="width: 17%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa5.png" style="width: 17%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa7.png" style="width: 17%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa9.png" style="width: 17%; height:auto;">
     </div>
     <div class="column">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa11.png" style="width: 15%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa13.png" style="width: 15%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa15.png" style="width: 15%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa17.png" style="width: 15%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa19.png" style="width: 15%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa11.png" style="width: 17%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa13.png" style="width: 17%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa15.png" style="width: 17%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa17.png" style="width: 17%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa19.png" style="width: 17%; height:auto;">
     </div>
      <div class="column">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa20.png" style="width: 15%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa25.png" style="width: 15%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa30.png" style="width: 15%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa35.png" style="width: 15%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa41.png" style="width: 15%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa20.png" style="width: 17%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa25.png" style="width: 17%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa30.png" style="width: 17%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa35.png" style="width: 17%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa41.png" style="width: 17%; height:auto;">
     </div>
   </div>
 
