@@ -20,6 +20,24 @@ Options:
 ```
 .\MonaLisa.exe --input_image_file_path "E:\input.png" --output_directory_path "E:\" --pattern "ellipse"
 ```
+### Step By Step
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa1.png" style="width: 30%; height:auto;">
+    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa16.png" style="width: 30%; height:auto;">
+    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa31.png" style="width: 30%; height:auto;">
+  </div>
+  <div class="column">
+    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa6.png" style="width: 30%; height:auto;">
+    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa21.png" style="width: 30%; height:auto;">
+    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa36.png" style="width: 30%; height:auto;">
+  </div>
+   <div class="column">
+    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa11.png" style="width: 30%; height:auto;">
+    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa26.png" style="width: 30%; height:auto;">
+    <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa41.png" style="width: 30%; height:auto;">
+  </div>
+</div>
 ### Examples
 - Approximate the image of Monalisa
   - by generating ellipses:
