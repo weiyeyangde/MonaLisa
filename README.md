@@ -54,45 +54,45 @@ Options:
 - Approximate the image of Monalisa
   - by generating ellipses:
     <p align="left">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa.png" title="Original Image" style="width: 30%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisaEllipse.gif" title="Approximate Image" style="width: 30%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa.png" title="Original Image" style="width:"200"; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisaEllipse.gif" title="Approximate Image" style="width: "200"; height:auto;">
     </p>
   - by generating rectangles:
     <p align="left">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa.png" title="Original Image" style="width: 30%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisaRectangle.gif" title="Approximate Image" style="width: 30%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa.png" title="Original Image" style="width:"200"; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisaRectangle.gif" title="Approximate Image" style="width:"200"; height:auto;">
     </p>
   - by generating triangles:
     <p align="left">
-       <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa.png" title="Original Image" style="width: 30%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisaTriangle.gif" title="Approximate Image" style="width: 30%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa.png" title="Original Image" style="width:"200"; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisaTriangle.gif" title="Approximate Image" style="width:"200"; height:auto;">
     </p>
   - by generating ellipses, rectangles and triangles:
     <p align="left">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa.png" title="Original Image" style="width: 30%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisaMixPattern.gif" title="Approximate Image" style="width: 30%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisa.png" title="Original Image" style="width:"200"; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/monalisaMixPattern.gif" title="Approximate Image" style="width:"200"; height:auto;">
     </p>
 
 - Approximate the image of Mario
   - by generating ellipses:
     <p align="left">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/mario.png" title="Original Image" style="width: 30%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/marioEllipse.gif" title="Approximate Image" style="width: 30%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/mario.png" title="Original Image" style="width:"200; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/marioEllipse.gif" title="Approximate Image" style="width:"200; height:auto;">
     </p>
   - by generating rectangles:
     <p align="left">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/mario.png" title="Original Image" style="width: 30%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/marioRectangle.gif" title="Approximate Image" style="width: 30%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/mario.png" title="Original Image" style="width:"200"; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/marioRectangle.gif" title="Approximate Image" style="width:"200"; height:auto;">
     </p>
   - by generating triangles:
     <p align="left">
-       <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/mario.png" title="Original Image" style="width: 30%; height:auto;">
+       <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/mario.png" title="Original Image" style="width:"200"; height:auto;">
        <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/marioTriangle.gif" title="Approximate Image" style="width: 30%; height:auto;">
     </p>
   - by generating ellipses, rectangles and triangles:
     <p align="left">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/mario.png" title="Original Image" style="width: 30%; height:auto;">
-      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/marioMixPattern.gif" title="Approximate Image" style="width: 30%; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/mario.png" title="Original Image" style="width:"200"; height:auto;">
+      <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/marioMixPattern.gif" title="Approximate Image" style="width:"200"; height:auto;">
     </p>
 ### Pseudocode
 ```
