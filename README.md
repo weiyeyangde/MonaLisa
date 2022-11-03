@@ -87,7 +87,7 @@ Options:
   - by generating triangles:
     <p align="left">
        <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/mario.png" title="Original Image" style="width:"200"; height:auto;">
-       <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/marioTriangle.gif" title="Approximate Image" style="width: 30%; height:auto;">
+       <img src="https://github.com/weiyeyangde/MonaLisa/blob/main/images/marioTriangle.gif" title="Approximate Image" style="width: 200; height:auto;">
     </p>
   - by generating ellipses, rectangles and triangles:
     <p align="left">
